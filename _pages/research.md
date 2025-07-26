@@ -11,8 +11,8 @@ I'm a PhD student at [ENS (University) Paris-Saclay](https://ens-paris-saclay.fr
 
 My research deals with the institutions of SMEs' and innovation's public financing in France.
 
-**Working papers**
+# Working papers
 
-**Publications**
+## Publications
 
 **_Regards croisés sur l'économie_**
