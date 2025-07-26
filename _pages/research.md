@@ -13,7 +13,7 @@ Entre économie politique institutionnaliste, économie des PME et de l'innovati
 Vous trouverez sur cette page un résumé de mes travaux en cours, individuels et collectifs.
 
 **EN**
-Somewhere between institutionalist political economy, the economics of SMBs and innovation and economic history, my research focuses on the institutions involved in the public financing of SMBs and innovation. It focuses on 3 main areas:
+Somewhere between institutionalist political economy, the economics of SMEs and innovation and economic history, my research focuses on the institutions involved in the public financing of SMBs and innovation. It focuses on 3 main areas:
 1. Institutional change in the history of public arrangements for corporate financing.
 2. The valuation power of public funding and the legitimacy of the organisations and actors behind it.
 3. The effects of public funding on company trajectories.
