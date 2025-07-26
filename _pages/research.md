@@ -30,6 +30,10 @@ In a context where the health crisis has particularly affected French businesses
 
 This paper presents the literature on the certification effect, which quantifies the positive signal that a company sends to private investors when obtaining public funding. After presenting the emergence of this literature and its main results, it sets out to establish a dialogue between this public policy evaluation literature and an institutional political economy theoretical framework. Taking into account the importance of symbolic capital and the valuation power of public intermediaries, it proposes a broader understanding of the certification effect.
 
+* _From corporate to financial guarantees. A form of indirect public intervention at the origins of the planning state_
+
+This paper examines the genesis and subsequent transformations of an important form of contemporaneous public intervention: guarantees. Drawing on the archives of French public organisations, it shows that it was with the development of the planning state that this instrument institutionalised, even though it reflected a vision of public action based on private initiative. Much studied today, this instrument is therefore not new, even if its financialised form which appeared in the 1980s came later.
+
 ## Publications
 
 * Amiotte Suchet A. (2024), ["L’« article 8 » : un dispositif oublié de garantie publique pour le financement des PME"](https://shs.cairn.info/revue-d-economie-financiere-2025-1-page-233?lang=fr), _Revue d'économie financière_, n° 157, pp. 233-241.
