@@ -22,6 +22,14 @@ On this page you will find a summary of my work in progress, both individual and
 
 ## Working papers
 
+* _Are eco-responsible businesses sustainable?_ - with Marion Michel.
+
+In a context where the health crisis has particularly affected French businesses, this article looks at a specific sector, that of eco-responsible consumer goods entrepreneurship. We examine the functioning of a moralized market space, comparing it to conventional businesses and studying its internal structure. Using a mixed method combining semi-directive interviews, online ethnography and company accounting data, we highlight the polarisation of the eco-responsible sector between SMEs that generate profits similar to those of conventional companies and very small, highly precarious one-person companies. In this way, we qualify the results on the economic difficulties of companies in moralised markets. We explain this polarisation by the link between the mobilisation of public funding mechanisms and the implementation of marketing and advertising strategies by highly qualified entrepreneurs in the commerce and communication sector.
+
+* _The power of public funding: how far do the ‘certification effects’ extend?_
+
+This paper presents the literature on the certification effect, which quantifies the positive signal that a company sends to private investors when obtaining public funding. After presenting the emergence of this literature and its main results, it sets out to establish a dialogue between this public policy evaluation literature and an institutional political economy theoretical framework. Taking into account the importance of symbolic capital and the valuation power of public intermediaries, it proposes a broader understanding of the certification effect.
+
 ## Publications
 
 * Amiotte Suchet A. (2024), ["L’« article 8 » : un dispositif oublié de garantie publique pour le financement des PME"](https://shs.cairn.info/revue-d-economie-financiere-2025-1-page-233?lang=fr), _Revue d'économie financière_, n° 157, pp. 233-241.
