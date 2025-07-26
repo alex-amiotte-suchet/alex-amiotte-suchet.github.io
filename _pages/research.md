@@ -4,12 +4,21 @@ permalink: /research/
 author_profile: true
 
 ---
+**FR**
+Entre économie politique institutionnaliste, économie des PME et de l'innovation et histoire économique, ma recherche porte sur les institutions du financement public des PME et de l'innovation. Elle se concentre autour de 3 principaux axes :
+1. Le changement institutionnel dans l'histoire des dispositifs publics pour le financement des entreprises.
+2. Le pouvoir de valorisation des financements publics et la légitimité des organisations et des acteurs qui les portent.
+3. Les effets des financements publics sur les trajectoires des entreprises.
 
-Welcome to my academic webpage.
+Vous trouverez sur cette page un résumé de mes travaux en cours, individuels et collectifs.
 
-I'm a PhD student at [ENS (University) Paris-Saclay](https://ens-paris-saclay.fr/en), and my research is conducted at the [IDHES](https://www.idhes.cnrs.fr/) lab.
+**EN**
+Somewhere between institutionalist political economy, the economics of SMBs and innovation and economic history, my research focuses on the institutions involved in the public financing of SMBs and innovation. It focuses on 3 main areas:
+1. Institutional change in the history of public arrangements for corporate financing.
+2. The valuation power of public funding and the legitimacy of the organisations and actors behind it.
+3. The effects of public funding on company trajectories.
 
-My research deals with the institutions of SMEs' and innovation's public financing in France.
+On this page you will find a summary of my work in progress, both individual and collective, as well as my previously published work.
 
 ## Working papers
 
