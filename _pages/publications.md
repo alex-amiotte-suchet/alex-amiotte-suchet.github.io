@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-* Amiotte Suchet A. (2024), ["L’« article 8 » : un dispositif oublié de garantie publique pour le financement des PME"](https://shs.cairn.info/revue-d-economie-financiere-2025-1-page-233?lang=fr), _Revue d'économie financière_, n° 157, pp. 233-241.
+* Amiotte Suchet A. (2025), ["L’« article 8 » : un dispositif oublié de garantie publique pour le financement des PME"](https://shs.cairn.info/revue-d-economie-financiere-2025-1-page-233?lang=fr), _Revue d'économie financière_, n° 157, pp. 233-241.
 
 _**Résumé**_ Cet article analyse l’émergence, puis le déclin, d’un dispositif de garantie publique pour le financement des PME : l’article 8. Inventé en 1936, inséré après-guerre au sein des crédits d’équipement mobilisables, il connaît un développement rapide dans les années 1970, et concernera jusqu’à 2 % des crédits aux entreprises au début des années 1980. Reposant sur la participation de groupements corporatistes, ce dispositif était financièrement avantageux pour les pouvoirs publics. Cependant, nous montrons que son déclin, puis son remplacement par le dispositif actuel des fonds publics de garantie, dans le courant des années 1980-1990, peuvent s’expliquer par celui de ces structures corporatistes héritées de l’entre-deux-guerres et du système de régulation du crédit né dans l’après-guerre après 1945.
 
