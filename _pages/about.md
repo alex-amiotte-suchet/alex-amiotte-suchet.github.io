@@ -14,6 +14,6 @@ Ma recherche porte sur les institutions du financement public de l'innovation et
 
 **EN** Welcome to my academic webpage.
 
-I'm a PhD student in economics at [ENS (University) Paris-Saclay](https://ens-paris-saclay.fr/en), and my research is conducted at the [IDHE.S](https://www.idhes.cnrs.fr/) lab.
+I'm a PhD candidate in economics at [ENS (University) Paris-Saclay](https://ens-paris-saclay.fr/en), and my research is conducted at the [IDHE.S](https://www.idhes.cnrs.fr/) lab.
 
 My research deals with the institutions of SMEs' and innovation's public financing in France.
