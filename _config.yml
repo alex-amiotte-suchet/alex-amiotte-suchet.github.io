@@ -22,8 +22,8 @@ repository               : "alex-amiotte-suchet/alex-amiotte-suchet.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "https://alex-amiotte-suchet.github.io/images/alex_20251016.jpg"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics at ENS (University) Paris-Saclay"
   location         : "Paris, France"
