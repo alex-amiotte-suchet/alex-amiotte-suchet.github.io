@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-**FR** Bienvenue sur ma page académique.
+**FR** Bienvenue sur mon site académique.
 
 Je suis doctorant en économie à l'[ENS Paris-Saclay](https://ens-paris-saclay.fr/), au sein du laboratoire [IDHE.S](https://www.idhes.cnrs.fr/).
 
