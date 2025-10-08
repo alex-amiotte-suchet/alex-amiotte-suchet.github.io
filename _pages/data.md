@@ -19,4 +19,11 @@ Under construction, the database will soon be completed with amounts since 1945 
 
 To understand and cite this database, see : Amiotte Suchet A. (2025), “L’« article 8 » : un dispositif oublié de garantie publique pour le financement des PME”, Revue d’économie financière, n° 157, pp. 233-241.
 
+* Guarantees and public loans for SMEs financing.
+
+This [database](/files/data.xlsx) is attached to a working paper : Amiotte Suchet A. (2025), "Financing businesses: a State affair?  Rise and financialisation of public financing for small and medium-sized enterprises in France". The original dataset gathers:
+- amounts of oustanding loans guaranteed by the Sofaris and by the corporatist system of "Article 8" ;
+- amounts of outstanding public loans to SMEs from 1980 to 2021.
+
+Explanations of how the database was constructed and a cleaner version are available upon request.
 
