@@ -27,5 +27,5 @@ The original dataset gathers:
 - amounts of oustanding loans guaranteed by the Sofaris and by the corporatist system of "Article 8" from 1960 to 1994 ;
 - amounts of outstanding public loans to SMEs from 1980 to 2021.
 
-Explanations of how the database was constructed and a cleaner version are available upon request.
+Explanations of how the database was constructed and wp are available upon request.
 
