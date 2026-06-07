@@ -5,7 +5,19 @@ author_profile: true
 
 ---
 
-* Garantie publique pour le financement des PME
+
+* **Guarantees and public loans for SMEs financing.**
+
+This [database](/files/data.xlsx) is attached to an article : Amiotte Suchet A. (2026), "Financing businesses: an affair of State?  Rise and financialisation of public financing for small and medium-sized enterprises in France", _New Politicial Economy_, pp. 1-23.
+
+The original dataset gathers:
+- amounts of oustanding loans guaranteed by the Sofaris and by the corporatist system of "Article 8" from 1960 to 1994 ;
+- amounts of outstanding public loans to SMEs from 1980 to 2021.
+
+Explanations of how the database was constructed and article are available upon request.
+
+
+* **Garantie publique pour le financement des PME**
 
 **FR** Cette [base de données](/files/REF_garantie.csv) rassemble, de 1960 à 1994, les montants de l'encours des prêts (en millions de francs et au 31 décembre de chaque année) garantis par le système de l'article 8 de la loi du 19 août 1936 portant création de la Caisse nationale des marchés de l'Etat. Elle est complétée par l'encours total des prêts au sociétés non financières en France, récolté dans les rapports du Conseil national du crédit.
 
@@ -18,14 +30,4 @@ Pour comprendre et citer cette base, cf : Amiotte Suchet A. (2025), “L’« ar
 Under construction, the database will soon be completed with amounts since 1945 and, from 1982, the amounts of loans guaranteed by Sofaris (French company for the insurance of SMEs' venture capital).
 
 To understand and cite this database, see : Amiotte Suchet A. (2025), “L’« article 8 » : un dispositif oublié de garantie publique pour le financement des PME”, Revue d’économie financière, n° 157, pp. 233-241.
-
-* Guarantees and public loans for SMEs financing.
-
-This [database](/files/data.xlsx) is attached to a working paper : Amiotte Suchet A. (2025), "Financing businesses: an affair of State?  Rise and financialisation of public financing for small and medium-sized enterprises in France". 
-
-The original dataset gathers:
-- amounts of oustanding loans guaranteed by the Sofaris and by the corporatist system of "Article 8" from 1960 to 1994 ;
-- amounts of outstanding public loans to SMEs from 1980 to 2021.
-
-Explanations of how the database was constructed and wp are available upon request.
 
