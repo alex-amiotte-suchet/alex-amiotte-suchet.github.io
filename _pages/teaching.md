@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **FR**
+
 Enseignement en 2025-2026 (Département de sciences humaines et sociales de l'Ecole normale supérieure Paris-Saclay) :
 * Introduction à l'économie institutionnaliste - L3 économie, 9hCM. 
 * Economie politique des systèmes financiers - M1 EOS, 10hCM
@@ -21,6 +22,7 @@ Enseignement en 2024-2025 (Département de sciences humaines et sociales de l'Ec
 * Interrogations orales en préparation à l'agrégation de SES - M2 FESUP, 9hTD.
 
 **EN**
+
 2025-2026 teaching (Social Sciences Department, Ecole normale supérieure Paris-Saclay):
 * Introduction to institutionalist economics - L3 economics, 9h, lecture.
 * Political economy of financial systems - M1 "Economics, organizations and society", 10h, lecture.
