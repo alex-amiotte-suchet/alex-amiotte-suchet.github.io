@@ -21,7 +21,7 @@ Somewhere between institutionalist political economy, small business and innovat
 On this page you will find a summary of my work in progress, both individual and collective, as well as my previously published work.
 
 ## Working papers
-* _Public financing of the economy in a financialised context: A critical literature review_ - with Marion Tosolini.
+* [_Public financing of the economy in a financialised context: A critical literature review_](https://www.beta-economics.fr/working-papers/2026-17/) - with Marion Tosolini.
 
 Since the 1990s, a growing body of literature has examined the role of the state in the economy within the financialised accumulation regime. However, despite the proliferation
 of such studies, this literature remains fragmented, with no real attempt to bring coherence to it. This article pursues three objectives. First, it offers a synthetic review of this scholarship and
