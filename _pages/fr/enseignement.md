@@ -8,7 +8,7 @@ author_profile: true
 description: "Enseignements assurés au Département de sciences humaines et sociales de l'ENS Paris-Saclay."
 ---
 
-Les enseignements ci-dessous sont assurés au Département de sciences humaines et sociales de l'École normale supérieure Paris-Saclay.
+Les enseignements ci-dessous sont assurés au Département de sciences humaines et sociales de l'École normale supérieure Paris-Saclay. Ils interviennent en L3 économie, M1 économie, organisation et société (EOS) et M2 de préparation à l'agrégation de SES (FESUP).
 
 | Cours | Niveau | Format | Volume | Années |
 |---|---|---|---|---|
@@ -18,7 +18,6 @@ Les enseignements ci-dessous sont assurés au Département de sciences humaines 
 | Suivi des mémoires | M1 EOS | TD | 15h / 12h | 2024-2025, 2025-2026 |
 | Interrogations orales, préparation à l'agrégation de SES | M2 FESUP | TD | 9h | 2024-2025, 2025-2026 |
 
-M1 EOS : master « Économie, organisations et société ».
 
 <!-- À COMPLÉTER : ajouter une ligne de description par cours, et un lien vers le syllabus ou les supports lorsque vous pouvez les diffuser. Exemple :
 
