@@ -55,10 +55,13 @@ This article examines entrepreneurship in the eco-friendly consumer goods sector
 
 ## Peer-reviewed articles
 
-### Financing businesses: an affair of state? Rise and financialisation of public financing for small and medium-sized enterprises in France
-Amiotte Suchet A. (2026), *New Political Economy*, pp. 1-23.
+{% include pub.html
+     title="Financing businesses: an affair of state? Rise and financialisation of public financing for small and medium-sized enterprises in France"
+     meta="Amiotte Suchet A. (2026), <em>New Political Economy</em>, pp. 1-23."
+     thumb="/images/pubs/tab1_NPE.png"
+     alt="Première page de l'article"
+     links="[Version publiée](https://doi.org/10.1080/13563467.2026.2683978) · [Preprint en accès libre](https://hal.science/hal-05330715v2) · [Données de réplication](/fr/donnees/)" %}
 
-[Published version](https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2683978) · [Open-access preprint](https://hal.science/hal-05330715v2) · [Replication data](/en/data/) · DOI: [10.1080/13563467.2026.2683978](https://doi.org/10.1080/13563467.2026.2683978)
 
 <details markdown="1">
 <summary>Abstract</summary>
@@ -67,10 +70,12 @@ Contemporary economic policies have become increasingly reliant on lending and g
 
 </details>
 
-### "Article 8": A Forgotten Government Guarantee Mechanism for Financing SMEs
-Amiotte Suchet A. (2025), *Revue d'économie financière* / *French Financial Economics Review*, n° 157, pp. 233-241.
-
-[French version](https://shs.cairn.info/revue-d-economie-financiere-2025-1-page-233?lang=fr) · [Data](/en/data/)
+{% include pub.html
+     title="Article 8": A Forgotten Government Guarantee Mechanism for Financing SMEs"
+     meta="Amiotte Suchet A. (2025), <em>French Financial Economics Review</em>, n° 157, pp. 233-241."
+     thumb="/images/pubs/article8_encours.png"
+     alt="Première page de l'article"
+     links="[French version]([https://doi.org/10.1080/13563467.2026.2683978](https://shs.cairn.info/revue-d-economie-financiere-2025-1-page-233?lang=fr)) · [Data](/en/data/)" %}
 
 <details markdown="1">
 <summary>Abstract</summary>
