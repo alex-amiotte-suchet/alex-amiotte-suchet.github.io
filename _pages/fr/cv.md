@@ -13,5 +13,5 @@ description: "Curriculum vitae d'Alex Amiotte Suchet, doctorant en économie à 
 <a href="/files/cv-alex-amiotte-suchet.pdf" class="btn btn--primary">Télécharger le CV complet (PDF)</a>
 
 ## Situation actuelle
-- ATER en économie, Université Paris Cité, LADYSS (UMR 7533)
+- ATER en économie, Université Paris Cité, LADYSS (UMR 7533) ;
 - Doctorant en économie, ENS Paris-Saclay, IDHE.S (UMR 8533).
