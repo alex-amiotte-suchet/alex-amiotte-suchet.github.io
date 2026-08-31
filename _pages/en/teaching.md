@@ -20,6 +20,7 @@ All courses below are taught in the Social Sciences Department of the École nor
 | Oral examinations, *Agrégation* in social sciences | M2 FESUP | Tutorial | 9h | 2024–25, 2025–26 |
 
 M1 EOS: master's programme in "Economics, organizations and society".
+M2 FESUP : master's programme for social sciences "Agrégation".
 
 <!-- TODO: add one line describing each course, and a link to the syllabus or slides where you can share them. Example:
 
