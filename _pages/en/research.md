@@ -70,7 +70,7 @@ Contemporary economic policies have become increasingly reliant on lending and g
 ### "Article 8": A Forgotten Government Guarantee Mechanism for Financing SMEs
 Amiotte Suchet A. (2025), *Revue d'économie financière* / *French Financial Economics Review*, n° 157, pp. 233-241.
 
-[English version](https://shs.cairn.info/revue-revue-deconomie-financiere-2025-1-page-233?lang=en&tab=resume) · [French version](https://shs.cairn.info/revue-d-economie-financiere-2025-1-page-233?lang=fr) · [Data](/en/data/)
+[French version](https://shs.cairn.info/revue-d-economie-financiere-2025-1-page-233?lang=fr) · [Data](/en/data/)
 
 <details markdown="1">
 <summary>Abstract</summary>
