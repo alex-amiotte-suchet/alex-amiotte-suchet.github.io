@@ -12,11 +12,11 @@ Les enseignements ci-dessous sont assurés au Département de sciences humaines 
 
 | Cours | Niveau | Format | Volume | Années |
 |---|---|---|---|---|
-| Introduction à l'économie institutionnaliste | L3 économie | CM | 9h | 2024-2025, 2025-2026 |
-| Économie politique des systèmes financiers | M1 EOS | CM | 10h | 2024-2025, 2025-2026 |
-| Économétrie | M1 EOS | CM | 10h / 9h | 2024-2025, 2025-2026 |
-| Suivi des mémoires | M1 EOS | TD | 15h / 12h | 2024-2025, 2025-2026 |
-| Interrogations orales, préparation à l'agrégation de SES | M2 FESUP | TD | 9h | 2024-2025, 2025-2026 |
+| Introduction à l'économie institutionnaliste | L3 économie | CM | 9h | 2023-2026 |
+| Économie politique des systèmes financiers | M1 EOS | CM | 10h | 2024-2026 |
+| Économétrie | M1 EOS | CM | 10h / 9h | 2024-2026 |
+| Suivi des mémoires | M1 EOS | TD | 15h / 12h | 2024-2026 |
+| Interrogations orales, préparation à l'agrégation de SES | M2 FESUP | TD | 9h | 2024-2026 |
 
 
 <!-- À COMPLÉTER : ajouter une ligne de description par cours, et un lien vers le syllabus ou les supports lorsque vous pouvez les diffuser. Exemple :
