@@ -5,9 +5,6 @@ main_en:
   - title: "Research"
     url: /en/research/
 
-  - title: "Publications"
-    url: /en/publications/
-
   - title: "Teaching"
     url: /en/teaching/
 
@@ -20,9 +17,6 @@ main_en:
 main_fr:
   - title: "Recherche"
     url: /fr/recherche/
-
-  - title: "Publications"
-    url: /fr/publications/
 
   - title: "Enseignement"
     url: /fr/enseignement/
