@@ -60,7 +60,7 @@ This article examines entrepreneurship in the eco-friendly consumer goods sector
      meta="Amiotte Suchet A. (2026), <em>New Political Economy</em>, pp. 1-23."
      thumb="/images/pubs/tab1_NPE.png"
      alt="Première page de l'article"
-     links="[Version publiée](https://doi.org/10.1080/13563467.2026.2683978) · [Preprint en accès libre](https://hal.science/hal-05330715v2) · [Données de réplication](/fr/donnees/)" %}
+     links="[Published version](https://doi.org/10.1080/13563467.2026.2683978) · [Preprint](https://hal.science/hal-05330715v2) · [Data](/fr/donnees/)" %}
 
 
 <details markdown="1">
