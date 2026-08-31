@@ -1,0 +1,57 @@
+{% comment %}
+  Data preview table, built at build time from a CSV in _data/.
+
+  Usage:
+    {% include data-preview.html
+         data=site.data.garantie_article8
+         rows=8
+         headers="Année|Garantie art. 8 (MF)|Encours crédits SNF (MF)"
+         download="/files/REF_garantie.csv" %}
+
+  Parameters:
+    data      - the site.data collection to display (required)
+    rows      - how many rows to show before truncating (default 8)
+    headers   - pipe-separated column labels; omit to use the CSV header row
+    download  - path to the full file, shown under the table
+    label     - text of the download link
+{% endcomment %}
+
+{% assign n = include.rows | default: 8 %}
+{% assign total = include.data | size %}
+
+<div class="data-preview">
+  <table>
+    <thead>
+      <tr>
+        {% if include.headers %}
+          {% assign cols = include.headers | split: "|" %}
+          {% for c in cols %}<th>{{ c }}</th>{% endfor %}
+        {% else %}
+          {% for pair in include.data[0] %}<th>{{ pair[0] }}</th>{% endfor %}
+        {% endif %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in include.data limit: n %}
+        <tr>
+          {% for pair in row %}<td>{{ pair[1] }}</td>{% endfor %}
+        </tr>
+      {% endfor %}
+      {% if total > n %}
+        <tr class="data-preview__ellipsis">
+          {% for pair in include.data[0] %}<td>⋯</td>{% endfor %}
+        </tr>
+        <tr>
+          {% for pair in include.data.last %}<td>{{ pair[1] }}</td>{% endfor %}
+        </tr>
+      {% endif %}
+    </tbody>
+  </table>
+
+  <p class="data-preview__meta">
+    {{ total }} {{ site.data.ui-text[page.lang].rows_label | default: "rows" }}
+    {% if include.download %}
+      · <a href="{{ include.download | relative_url }}">{{ include.label | default: "Download the full file" }}</a>
+    {% endif %}
+  </p>
+</div>

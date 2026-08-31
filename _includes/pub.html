@@ -1,0 +1,35 @@
+{% comment %}
+  A publication entry with a cover thumbnail on the left.
+
+  Usage:
+    {% include pub.html
+         title="Financing businesses: an affair of state?"
+         meta="Amiotte Suchet A. (2026), <em>New Political Economy</em>, pp. 1-23."
+         thumb="/images/pubs/npe-2026.png"
+         alt="First page of the article"
+         links="[Published version](https://…) · [Preprint](https://…)" %}
+
+  Parameters:
+    title  - the title (required)
+    meta   - authors, journal, pages (HTML allowed)
+    thumb  - path to the thumbnail image; omit it and the entry renders
+             full-width with no image
+    alt    - alt text for the thumbnail
+    links  - a line of links, written in Markdown
+{% endcomment %}
+
+<div class="pub">
+  {% if include.thumb %}
+    <div class="pub__thumb">
+      <img src="{{ include.thumb | relative_url }}"
+           alt="{{ include.alt | default: include.title }}"
+           loading="lazy">
+    </div>
+  {% endif %}
+  <div class="pub__body">
+    <p class="pub__title">{{ include.title }}</p>
+    {% if include.meta %}<p class="pub__meta">{{ include.meta }}</p>{% endif %}
+    {% if include.links %}<p class="pub__links">{{ include.links | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
+    {{ include.content }}
+  </div>
+</div>
