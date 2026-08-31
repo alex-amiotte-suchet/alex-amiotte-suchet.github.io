@@ -1,0 +1,66 @@
+/* ==========================================================================
+   Custom additions (language switcher, collapsible abstracts, typography)
+   ========================================================================== */
+
+/* Language switcher in the masthead */
+.masthead__menu-item.lang-switch {
+  a {
+    font-size: 0.72em;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    opacity: 0.75;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+/* Collapsible abstracts on the research and publications pages */
+.page__content details {
+  margin: 0.5em 0 1.5em;
+  border-left: 3px solid var(--global-border-color, #f2f3f3);
+  padding-left: 1em;
+
+  summary {
+    cursor: pointer;
+    font-size: 0.85em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--global-text-color-light, #7a8288);
+    list-style: none;
+    padding: 0.25em 0;
+
+    &::-webkit-details-marker { display: none; }
+
+    &::before {
+      content: "\25B8";          /* right-pointing triangle */
+      display: inline-block;
+      margin-right: 0.5em;
+      transition: transform 0.15s ease;
+    }
+
+    &:hover { color: var(--global-text-color, #3b3d3f); }
+  }
+
+  &[open] > summary::before {
+    transform: rotate(90deg);
+  }
+
+  > *:not(summary) {
+    font-size: 0.9em;
+    line-height: 1.7;
+  }
+}
+
+/* Slightly roomier reading measure for long abstracts */
+.page__content p,
+.page__content li {
+  line-height: 1.65;
+}
+
+/* Teaching table: keep it readable on narrow screens */
+.page__content table {
+  font-size: 0.85em;
+}
