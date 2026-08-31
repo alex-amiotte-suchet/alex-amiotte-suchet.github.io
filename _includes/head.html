@@ -19,3 +19,16 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- hreflang: tells search engines these are translations, not duplicate content -->
+{% if page.ref %}
+  {% for p in site.pages %}
+    {% if p.ref == page.ref and p.lang %}
+      <link rel="alternate" hreflang="{{ p.lang }}" href="{{ p.url | absolute_url }}">
+    {% endif %}
+  {% endfor %}
+  {% assign default_page = site.pages | where: "ref", page.ref | where: "lang", "en" | first %}
+  {% if default_page %}
+    <link rel="alternate" hreflang="x-default" href="{{ default_page.url | absolute_url }}">
+  {% endif %}
+{% endif %}

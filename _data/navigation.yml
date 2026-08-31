@@ -1,26 +1,34 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# Header navigation, one list per language.
+# The lang switcher itself is added by _includes/lang-switcher.html.
 
-main:
+main_en:
   - title: "Research"
-    url: /research/
+    url: /en/research/
 
   - title: "Publications"
-    url: /publications/
+    url: /en/publications/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /en/teaching/
+
   - title: "Data"
-    url: /data/
-    
+    url: /en/data/
+
   - title: "CV"
-    url: /cv/
+    url: /en/cv/
 
+main_fr:
+  - title: "Recherche"
+    url: /fr/recherche/
 
+  - title: "Publications"
+    url: /fr/publications/
+
+  - title: "Enseignement"
+    url: /fr/enseignement/
+
+  - title: "Données"
+    url: /fr/donnees/
+
+  - title: "CV"
+    url: /fr/cv/
