@@ -15,19 +15,14 @@ Somewhere between institutionalist political economy, small business and innovat
 2. The valuation power of public funding and the legitimacy of the organisations and actors behind it.
 3. The effects of public funding on company trajectories.
 
-On this page you will find a summary of my work in progress, both individual and collective. Published work is listed on the [publications page](/en/publications/).
+On this page you will find a summary of my work in progress, both individual and collective, as well as published works.
 
-## Doctoral dissertation
-
-<!-- TODO: fill in the title, supervisor, defence year and funding, then delete this comment. -->
-*Title of the dissertation* — supervised by <!-- supervisor -->, ENS Paris-Saclay, IDHE.S. Expected defence: <!-- year -->.
-
-## Working papers
+## Work in progress
 
 ### The power of public funding. Various funding instruments and their certification effects
 *Under review.*
 
-[SSRN](http://dx.doi.org/10.2139/ssrn.7005927)
+[SSRN working paper](http://dx.doi.org/10.2139/ssrn.7005927)
 
 <details markdown="1">
 <summary>Abstract</summary>
@@ -50,8 +45,6 @@ Since the 1990s, a growing body of literature has examined the role of the state
 
 ### Turning environmental values into market value. The entrepreneurial work in the committed production market
 *With Marion Michel. Under review.*
-
-Draft available upon request.
 
 <details markdown="1">
 <summary>Abstract</summary>
