@@ -64,3 +64,88 @@
 .page__content table {
   font-size: 0.85em;
 }
+
+/* --------------------------------------------------------------------------
+   Data previews and charts
+   -------------------------------------------------------------------------- */
+
+.data-preview {
+  margin: 1.5em 0;
+
+  table {
+    font-size: 0.8em;
+    margin-bottom: 0.5em;
+  }
+
+  td { font-variant-numeric: tabular-nums; }
+
+  .data-preview__ellipsis td {
+    text-align: center;
+    color: var(--global-text-color-light, #898c8f);
+    padding: 0.2em 0;
+  }
+
+  .data-preview__meta {
+    font-size: 0.78em;
+    color: var(--global-text-color-light, #898c8f);
+    margin: 0;
+  }
+}
+
+.data-chart {
+  margin: 1.5em 0;
+
+  svg { width: 100%; height: auto; display: block; }
+}
+
+/* --------------------------------------------------------------------------
+   Publication entries with a cover thumbnail
+   -------------------------------------------------------------------------- */
+
+.pub {
+  display: flex;
+  gap: 1.25em;
+  align-items: flex-start;
+  margin: 0 0 2em;
+
+  &__thumb {
+    flex: 0 0 110px;
+
+    img {
+      width: 100%;
+      border: 1px solid var(--global-border-color, #e6e7e8);
+      border-radius: 2px;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.10);
+      display: block;
+    }
+  }
+
+  &__body { flex: 1 1 auto; min-width: 0; }
+
+  &__title {
+    font-size: 1em;
+    font-weight: 700;
+    line-height: 1.35;
+    margin: 0 0 0.3em;
+  }
+
+  &__meta {
+    font-size: 0.85em;
+    color: var(--global-text-color-light, #898c8f);
+    margin: 0 0 0.5em;
+  }
+
+  &__links { font-size: 0.85em; margin: 0; }
+}
+
+/* Stack the thumbnail above the text on narrow screens */
+@media (max-width: 600px) {
+  .pub {
+    display: block;
+
+    &__thumb {
+      width: 90px;
+      margin-bottom: 0.75em;
+    }
+  }
+}
