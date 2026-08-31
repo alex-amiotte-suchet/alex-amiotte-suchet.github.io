@@ -73,7 +73,7 @@ Contemporary economic policies have become increasingly reliant on lending and g
      meta="Amiotte Suchet A. (2025), <em>Revue d'économie financière</em>, n° 157, pp. 233-241."
      thumb="/images/pubs/article8_encours.png"
      alt="Première page de l'article"
-     links="[Version publiée]([https://doi.org/10.1080/13563467.2026.2683978](https://shs.cairn.info/revue-d-economie-financiere-2025-1-page-233?lang=fr)) · [Données de réplication](/fr/donnees/)" %}
+     links="[article](https://shs.cairn.info/revue-d-economie-financiere-2025-1-page-233?lang=fr)) · [Données de réplication](/fr/donnees/)" %}
 
 <details markdown="1">
 <summary>Abstract</summary>
