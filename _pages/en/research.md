@@ -71,7 +71,7 @@ Contemporary economic policies have become increasingly reliant on lending and g
 </details>
 
 {% include pub.html
-     title="Article 8": A Forgotten Government Guarantee Mechanism for Financing SMEs"
+     title="'Article 8': A Forgotten Government Guarantee Mechanism for Financing SMEs"
      meta="Amiotte Suchet A. (2025), <em>French Financial Economics Review</em>, n° 157, pp. 233-241."
      thumb="/images/pubs/article8_encours.png"
      alt="Première page de l'article"
