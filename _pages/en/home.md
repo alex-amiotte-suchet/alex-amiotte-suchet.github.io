@@ -16,4 +16,4 @@ I'm a PhD candidate in economics at [ENS (University) Paris-Saclay](https://ens-
 
 My research deals with the institutions of SMEs' and innovation's public financing in France. It sits at the intersection of institutionalist political economy, small business and innovation economics, and economic history, and combines archival work, interviews and administrative microdata.
 
-More details on my [research and publications](https://alex-amiotte-suchet.github.io/en/research/), my [teaching](https://alex-amiotte-suchet.github.io/en/teaching/), and [historical data](https://alex-amiotte-suchet.github.io/en/data/) on public funding of businesses.
+More details on my [research and publications](https://alex-amiotte-suchet.github.io/en/research/), my [teaching](https://alex-amiotte-suchet.github.io/en/teaching/), and [historical data](https://alex-amiotte-suchet.github.io/en/data/) on public financing of businesses.
