@@ -149,3 +149,13 @@
     }
   }
 }
+:root {
+  --global-link-color         : #8f5849;
+  --global-link-color-hover   : #6d4137;
+  --global-link-color-visited : #a5756a;
+}
+[data-theme="dark"] {
+  --global-link-color         : #d99383;
+  --global-link-color-hover   : #eeb0a2;
+  --global-link-color-visited : #c98878;
+}
